@@ -1,3 +1,5 @@
+### (NOTE: This was just a test to mimic other Github user's who "import" other repos, rather than fork them.. and then pass them off as their own. However, they often strip any sourcing info and commit/tag history, somehow)
+
 # Welcome to the RBAC MERN Boilerplate project
 
 ### _A complete (Work in progress now) MERN boilerplate repository with RBAC feature, following all production best practices._
